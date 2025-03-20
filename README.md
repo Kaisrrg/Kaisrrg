@@ -39,10 +39,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/bb/e1/15/bbe115b6e8b30f100304bebb571ced68.gif"  />
+  <img height="300" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif"  />
 </div>
 
 ###
