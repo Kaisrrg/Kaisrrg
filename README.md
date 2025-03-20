@@ -37,10 +37,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaisrrg/Kaisrrg/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaisrrg/Kaisrrg/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaisrrg/Kaisrrg/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/bb/e1/15/bbe115b6e8b30f100304bebb571ced68.gif"  />
+</div>
 
 ###
