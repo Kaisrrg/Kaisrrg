@@ -9,6 +9,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="200" src="https://media.tenor.com/X_xh7_GIN9YAAAAj/rojo-pokemon.gif"  />
 
 ###
@@ -36,6 +38,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img height="300" src="https://i.pinimg.com/originals/bb/e1/15/bbe115b6e8b30f100304bebb571ced68.gif"  />
