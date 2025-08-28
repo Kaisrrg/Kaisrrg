@@ -1,17 +1,15 @@
-<h2 align="left">Olá, meu nome é Gabriel da Silva Miranda, tenho 17 anos, sou atleta de vôlei e estou me buscando me tornar um Software Enginner de back-end!</h2>
+<h2 align="left">Hello, my name is Gabriel, i'm a starter backend dev, i'm from Brazil and still in high school.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaisrrg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Kaiser's%20Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaisrrg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://cdn3.emoji.gg/emojis/92667-amonguschairspin.gif" width="20%" />
+  <img src="https://cdn3.emoji.gg/emojis/31425-fire.gif" width="20%" />
 </div>
 
 ###
 
 <br clear="both">
-
-<img align="right" height="200" src="https://media.tenor.com/X_xh7_GIN9YAAAAj/rojo-pokemon.gif"  />
 
 ###
 
@@ -38,9 +36,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif"  />
-</div>
 
 ###
