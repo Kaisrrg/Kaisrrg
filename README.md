@@ -1,4 +1,4 @@
-<h2 align="left">Hello, my name is Gabriel, i'm a starter backend dev, i'm from Brazil and still in high school.</h2>
+<h2 align="left">Hello, my name is Gabriel, i'm a starter backend and still in high school.</h2>
 
 ###
 
