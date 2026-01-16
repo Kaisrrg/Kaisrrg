@@ -1,17 +1,6 @@
-<h2 align="left">Hello, my name is Gabriel, i'm a starter backend and still in high school.</h2>
+<p>Freelancer Software Enginner. 💻</p>
 
-###
-
-<div align="center">
-  <img src="https://cdn3.emoji.gg/emojis/92667-amonguschairspin.gif" width="20%" />
-  <img src="https://cdn3.emoji.gg/emojis/31425-fire.gif" width="20%" />
-</div>
-
-###
-
-<br clear="both">
-
-###
+<hr />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -21,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-###
+<hr />
 
 <div align="left">
   <a href="https://www.instagram.com/kaisrrg/" target="_blank">
